@@ -1,0 +1,145 @@
+h1{background:rgb(32, 178, 170);
+    font-family: cursive;
+    font-size: 50px;
+    color:rgb(245, 241, 241);
+    Letter-Spacing: 2px;
+    text-shadow: 8px 6px 2px #000000;
+    background-image:url(imagen8.jfif);
+    height: 100px;
+    text-align: center;   
+}
+
+.titulo{background:rgb(32, 178, 170);
+    font-family: cursive;
+    font-size: 50px;
+    color:rgb(245, 241, 241);
+    Letter-Spacing: 2px;
+    text-shadow: 8px 6px 2px #000000;
+    background-image:url(imagen8.jfif);
+    height: 160px;
+    text-align: center;
+}
+
+h2{background:rgb(32, 178, 170);
+    font-size: 30px;
+    font-family:cursive;
+}
+body{ background-color:rgb(3, 80, 80) ;
+}
+
+article{ font-size: 20px;
+        background:rgba(13, 131, 185, 0.507);
+        font-family: cursive;
+        font-size: 20px;
+        border-radius: 40px;
+        border-style:dashed ;
+        padding: 20px;
+margin: 40px;
+}
+
+.borde1{ border-radius: 30px;
+    text-align: center;
+}
+
+.borde2{border-radius: 30px;
+    text-align: center;
+}
+
+.borde3{border-radius: 30px;
+    text-align: center;}
+
+nav{font-family: cursive;
+    font-size: 20px;
+    background:rgb(16, 185, 185);
+    border-style:double;
+    border-width: 10px;
+    border-radius: 60px;
+    width: 456px;
+    padding: 1%;
+    float: left;
+    margin-right: 130px;
+    margin-left: 90px;
+}
+
+
+.imagen1{ 
+        border-radius: 60px;
+        border-style: double;
+        border-width: 10px;
+        margin-right: 30px;
+    
+} /* imagen del archivo: index. */
+
+.imagen2{position:relative; 
+    bottom: 414px;
+    right: -35px;
+    border-radius: 60px;
+    border-style: double;
+    border-width: 10px;
+    margin-top: 31%;
+} /* imagen en el archivo: elfuturo.html */
+
+.imagen3{position:relative; 
+    bottom: 384px;
+    right: -28px;
+    border-radius: 60px;
+    border-style: double;
+    border-width: 10px;
+    margin-top: 29%;
+}
+
+.imagen4{position:relative; 
+    bottom: 415px;
+    right: -28px;
+    border-radius: 60px;
+    border-style: double;
+    border-width: 10px;
+    margin-top: 31%;
+}
+
+h3{ font-family: cursive;
+    font-size: 25px;
+    text-align:center;
+    letter-spacing: 4px;
+ text-shadow: 4px 4px 6px #000000;
+}
+
+footer{ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+text-align: center;
+word-spacing: 10px;
+letter-spacing: 2px;
+background:rgb(32, 178, 170);
+
+}
+
+.volverarriba{font-family: cursive; 
+font-size: 25px;
+background-color:rgb(39, 189, 194);
+width: 158px;
+} /* enlace para volver arriba en en alchivo que estés */
+
+#Conclución{font-size: 46px; 
+    text-align: right;
+    background:rgba(26, 199, 190, 0.411);
+    background-image:url(imagen5.jfif);
+    height: 70px ;
+    color:rgb(0, 0, 0);
+    Letter-Spacing: 2px;
+    text-shadow: 8px 6px 8px #000000;
+}
+
+.tabla{border-style:solid;
+border-color: rgb(255, 255, 255);
+width: 600px;
+background-color: rgb(32, 178, 170);
+position:relative;
+left: 30%;
+
+}
+
+.link{border-style:dotted;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(32, 178, 170);
+    width: 100px;
+}
